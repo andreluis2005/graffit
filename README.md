@@ -131,3 +131,4 @@ GRAFFIT is a **memecoin created for art, culture and community purposes**.
 > Neither does culture.
 
 **GRAFFIT — The Urban Art Memecoin on Base**
+-- Trabalharemos no momento com a Base, novas implementações a caminho ...
